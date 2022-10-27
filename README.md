@@ -1,5 +1,5 @@
 # Brend
-a second brain for developers
+A seco**nd** **br**ain for d**e**velopers
 
 #### Problem:
 Information overload, Difficulty in tracking goals, and Impostor syndrome.
